@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    user-select: hidden;
+}
+
+#match_field{
+    width: 100%;
+    height: 100vh;
+    background-color: dimgray;
+    cursor: url("../img/cursor/Celownik1.png"), pointer;
+    overflow: hidden;
+}
+
+.balonik{
+    position: fixed;
+}
